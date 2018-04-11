@@ -1,0 +1,48 @@
+[07-Jan-2018 05:13:29 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/moweaqua/public_html/wp-content/themes/moweaqua/404.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/moweaqua/public_html/wp-content/themes/moweaqua/404.php on line 6
+[15-Jan-2018 08:57:56 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/moweaqua/public_html/wp-content/themes/moweaqua/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/moweaqua/public_html/wp-content/themes/moweaqua/index.php on line 6
+[15-Jan-2018 17:44:28 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/moweaqua/public_html/wp-content/themes/moweaqua/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/moweaqua/public_html/wp-content/themes/moweaqua/index.php on line 6
+[28-Jan-2018 22:32:25 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/moweaqua/public_html/wp-content/themes/moweaqua/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/moweaqua/public_html/wp-content/themes/moweaqua/index.php on line 6
+[06-Feb-2018 12:06:15 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/moweaqua/public_html/wp-content/themes/moweaqua/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/moweaqua/public_html/wp-content/themes/moweaqua/index.php on line 6
+[13-Feb-2018 23:22:28 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/moweaqua/public_html/wp-content/themes/moweaqua/404.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/moweaqua/public_html/wp-content/themes/moweaqua/404.php on line 6
+[13-Feb-2018 23:22:29 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/moweaqua/public_html/wp-content/themes/moweaqua/404.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/moweaqua/public_html/wp-content/themes/moweaqua/404.php on line 6
+[16-Feb-2018 11:09:59 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/moweaqua/public_html/wp-content/themes/moweaqua/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/moweaqua/public_html/wp-content/themes/moweaqua/index.php on line 6
+[01-Mar-2018 13:07:54 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/moweaqua/public_html/wp-content/themes/moweaqua/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/moweaqua/public_html/wp-content/themes/moweaqua/index.php on line 6
+[09-Mar-2018 19:31:51 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/moweaqua/public_html/wp-content/themes/moweaqua/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/moweaqua/public_html/wp-content/themes/moweaqua/index.php on line 6
+[17-Mar-2018 00:22:13 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/moweaqua/public_html/wp-content/themes/moweaqua/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/moweaqua/public_html/wp-content/themes/moweaqua/index.php on line 6
+[19-Mar-2018 13:50:57 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function language_attributes() in /home/moweaqua/public_html/wp-content/themes/moweaqua/header.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/moweaqua/public_html/wp-content/themes/moweaqua/header.php on line 10
